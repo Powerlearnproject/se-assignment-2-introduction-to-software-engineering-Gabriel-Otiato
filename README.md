@@ -7,16 +7,54 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+
 Software engineering the discipline of designing, developing and maintaining software systems through the systematic application of engineering principles, methods and tools. This is done to ensure the reliability, efficiency and maintainability of software products through its life cycle.
-What is software engineering, and how does it differ from traditional programming? Software engineering the discipline of designing, developing and maintaining software systems through the systematic application of engineering principles, methods and tools. It differs from traditional programming in some several ways incliding; i). Scope - software engineering entails the entire process of software system's life cycle whereas traditional programming involves writing codes to solve a specific problem or perform a task assigned to the code. ii). Objectives - Software engineering aims at providing software that can help solve long term human needs whereas traditional programming aims at code development to solve an immediate problem or perform an immediate task. iii). Methodology - in software engineering, methodology is structured and best practices such as agie, DevOps, scrum and waterfall are used while traditional programming follows less formal/ad-hoc approaches to coding. iv). Roles and their collaboration - software engineering involves specialised roles such as software architects, project managers, quality assurance engineers and business analysts and also requires coordination different team members. On the other hand, traditional programming is performed by individual developers and the need for much cordination and role specialisation is limited.
-Software Development Life Cycle (SDLC): This is the process followed by a software developer while making/developing software products.
-Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. Software Development Life Cycle includes; i). Coming up with a plan of which user need you want to meet or a problem you want to solve. ii). Gathering the requirements for the project (these requirements are based on the user needs and system requirements). iii). Coming up with a design. This is done through system architect as well as user interface. iv). Implementation by writing a code and building the software according to the user interface. v). Testing the software to ensure its working well and it is upto the right standards. vi). Deploy the system for users to use it and solve the needs. vii). Maintainance of the system by supporting, updating and enhancing the system.
+
+What is software engineering, and how does it differ from traditional programming?
+
+Software engineering the discipline of designing, developing and maintaining software systems through the systematic application of engineering principles, methods and tools.
+
+It differs from traditional programming in some several ways incliding;
+i). Scope - software engineering entails the entire process of software system's life cycle whereas traditional programming involves writing codes to solve a specific problem or perform a task assigned to the code. 
+ii). Objectives - Software engineering aims at providing software that can help solve long term human needs whereas traditional programming aims at code development to solve an immediate problem or perform an immediate task. 
+iii). Methodology - in software engineering, methodology is structured and best practices such as agie, DevOps, scrum and waterfall are used while traditional programming follows less formal/ad-hoc approaches to coding.
+iv). Roles and their collaboration - software engineering involves specialised roles such as software architects, project managers, quality assurance engineers and business analysts and also requires coordination different team members. On the other hand, traditional programming is performed by individual developers and the need for much cordination and role specialisation is limited.
+
+Software Development Life Cycle (SDLC):
+This is the process followed by a software developer while making/developing software products.
+
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+Software Development Life Cycle includes;
+i). Coming up with a plan of which user need you want to meet or a problem you want to solve.
+ii). Gathering the requirements for the project (these requirements are based on the user needs and system requirements).
+iii). Coming up with a design. This is done through system architect as well as user interface.
+iv). Implementation by writing a code and building the software according to the user interface.
+v). Testing the software to ensure its working well and it is upto the right standards.
+vi). Deploy the system for users to use it and solve the needs. 
+vii). Maintainance of the system by supporting, updating and enhancing the system.
+
+
 Agile vs. Waterfall Models: 
-Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?  Agile is a model used in software development that involves iterative and incremental approach that focuses on flexibility, collaborative and development in responding to change. whike using Aigle, one can complete another step even before finishing another step and thus making it very flexible for long term projects. Waterfall on the other hand is a sequential approach that requires a developer to finish one face before going to the other. This is good while developing a system that won't take long since it goes step by step and when one step fails the whole process has to be repeated. both  Agile and waterfall are commonly used software development methodologies. Agile is mostly used for projects with changing requirements, complex and uncertain projects, innovation-driven projects. Waterfall, on the other hand is used for projects with specific stable requirements, projects that need a well documented audit trail ad projects with fixed scope and budget.
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred? 
+Agile is a model used in software development that involves iterative and incremental approach that focuses on flexibility, collaborative and development in responding to change. while using Aigle, one can complete another step even before finishing another step and thus making it very flexible for long term projects. 
+Waterfall on the other hand is a sequential approach that requires a developer to finish one face before going to the other. This is good while developing a system that won't take long since it goes step by step and when one step fails the whole process has to be repeated. 
+
+Both  Agile and waterfall are commonly used software development methodologies. Agile is mostly used for projects with changing requirements, complex and uncertain projects, innovation-driven projects. Waterfall, on the other hand is used for projects with specific stable requirements, projects that need a well documented audit trail ad projects with fixed scope and budget.
+
 Requirements Engineering:
-What is requirements engineering? Describe the process and its importance in the software development lifecycle. Requirements engineering is the process of defining, documenting and maintaining the requirements for a software system.The process includes; i). Gathering the neccesary requirements from stakeholders through surveys, interviews and workshops. ii). Requirements analysis. These requirements are analyzed for consistency, completeness and feasibility. iii). Requirements specification by documenting them in a clear manner. iv). Requirement validation by review of the documented information together with the stakeholders to ensure it has adressed the needs. v). Requirement management. This involves management of changes in the requirement throughout the lifecycle. 
+What is requirements engineering? Describe the process and its importance in the software development lifecycle. 
+
+Requirements engineering is the process of defining, documenting and maintaining the requirements for a software system.
+The process includes;
+i). Gathering the neccesary requirements from stakeholders through surveys, interviews and workshops. 
+ii). Requirements analysis. These requirements are analyzed for consistency, completeness and feasibility. 
+iii). Requirements specification by documenting them in a clear manner.
+iv). Requirement validation by review of the documented information together with the stakeholders to ensure it has adressed the needs.
+v). Requirement management. This involves management of changes in the requirement throughout the lifecycle. 
+
 importance of requirements engineering in SDLC.
 i). It increases the likelihood of the success of the project by ensuring the software aligns to the needs of the stakeholders. ii). Helps to reduce risks by identifying and addressing requirements earlier in the development process. iii). It is highly cost saving as well as time saving since rework and costly changes later on are avoided. iv). Ensures that final product meets the desired quality standards. v). It leads to overall customer satisfaction by proper incorporation of the needs and expectations of the stakeholders into the software system.
+
 Software Design Principles:
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Modularity is a principle that helps create a software in a way that minimizes dependancy aong the components of a system by coming up with modules that can interact with one another through well defined interface.
