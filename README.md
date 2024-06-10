@@ -55,24 +55,33 @@ v). Requirement management. This involves management of changes in the requireme
 importance of requirements engineering in SDLC.
 i). It increases the likelihood of the success of the project by ensuring the software aligns to the needs of the stakeholders. ii). Helps to reduce risks by identifying and addressing requirements earlier in the development process. iii). It is highly cost saving as well as time saving since rework and costly changes later on are avoided. iv). Ensures that final product meets the desired quality standards. v). It leads to overall customer satisfaction by proper incorporation of the needs and expectations of the stakeholders into the software system.
 
+
 Software Design Principles:
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+
 Modularity is a principle that helps create a software in a way that minimizes dependancy aong the components of a system by coming up with modules that can interact with one another through well defined interface.
+
 Modularity increases maintainability and scalability in many ways;
 i). Ease of understanding by breaking down the system into modular components.
 ii). Ability to reuse the code by allowing modules to be used across the different parts of the system or different projects.
 iii). It is easy to make changes because they are isolated through the formulation of different modules where developers can update individual modules.
 iv). It enables easy scalability since additional features can be added  by introducing new modules incase of growth in the system.
 v). Modular design allows for independent testing of modules making it easier to identify and fix defects early in development process.
+
 Testing in Software Engineering:
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+
 i). Unit testing - This is testing individual components of a software to verify that each unit behaves as expected and meets its requirements.
 ii). Integration testing - This focuses on the interaction between different unit of components of a software to ensure correct flow of data.
 iii). System testing - This evaluates the whole software to ensure it the integrated system meets its specified requirements and functions correctly.
 iv). Acceptance testing - This is a test done to to confirm if the software meets te acceptance criteria defined by the stakeholders in order to meet user needs.
+
+
 Version Control Systems:
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+
 Version control systems are software tools that enable developers to manage changes to source code, documents and other files over time. Examples include; git, version control, gitlab, concurrent version system Bit keeper, e.t.c.
+
 It is important in software development in several ways;
 i). History tracking. VCS maintains a detailes history of changes made on the project including time made and whoever made. This makes it easy to track the information.
 ii). VCS integrates seamlessly with continuous integration and continuous deployment pipelines. this enables automated testing and deployment of code changes.
